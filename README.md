@@ -37,6 +37,10 @@ http://localhost:8501
     - Ingresa los valores numéricos requeridos:
 
         - Edad (años)
+          
+        - Género
+          
+        - Tipo de sangre
 
         - Presión arterial sistólica (mm Hg)
 
