@@ -15,7 +15,7 @@
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/Samhernesp/Docker-and-MLOps-Pipeline-.git
-cd prototipo-mlops
+cd Docker-and-MLOps-Pipeline-
 ```
 
 ### 2. Construir y ejecutar
