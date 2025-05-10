@@ -14,7 +14,7 @@
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/prototipo-mlops.git
+git clone https://github.com/Samhernesp/Docker-and-MLOps-Pipeline-.git
 cd prototipo-mlops
 ```
 
